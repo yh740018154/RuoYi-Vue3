@@ -2,7 +2,7 @@
   <div class="app-container home">
     <el-row :gutter="20">
       <el-col :sm="24" :lg="12" style="padding-left: 20px">
-        <h2>若依后台管理框架</h2>
+        <h2>能源管理后台管理框架</h2>
         <p>
           <b>当前版本:</b> <span>v{{ version }}</span>
         </p>

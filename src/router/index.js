@@ -58,6 +58,11 @@ export const constantRoutes = [
     hidden: true
   },
   {
+    path: '/bigscreen',
+    component: () => import('@/views/bigscreen/demo'),
+    hidden: true
+  },
+  {
     path: '',
     component: Layout,
     redirect: '/index',
